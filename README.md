@@ -104,6 +104,6 @@ mlflow ui
 
 ```
 Author: VICTOR 
-Blog: [https://jeon-maker.tistory.com/]  
-GitHub: [https://github.com/VICTOR-JEON-1998] 
+[Blog](https://jeon-maker.tistory.com/)  
+[GitHub](https://github.com/VICTOR-JEON-1998) 
 ```
