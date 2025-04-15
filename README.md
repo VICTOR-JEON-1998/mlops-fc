@@ -102,8 +102,7 @@ mlflow ui
 
 > 문의 또는 피드백은 언제든 환영합니다!
 
-```
-Author: VICTOR 
-[Blog](https://jeon-maker.tistory.com/)  
-[GitHub](https://github.com/VICTOR-JEON-1998) 
-```
+**Author:** VICTOR  
+🌐 [Blog](https://jeon-maker.tistory.com/)  
+💻 [GitHub](https://github.com/VICTOR-JEON-1998)
+
